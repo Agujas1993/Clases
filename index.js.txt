@@ -8,7 +8,7 @@ app.get('/', function (req, res) {
 app.listen(port)
  
 require('dotenv').config()
-///////////////////////EMPIEZA/TU/BOT//////////////////////////////
+
 const Discord = require("discord.js");
 const client = new Discord.Client();
 
@@ -56,4 +56,4 @@ var aleatorio = Math.floor(Math.random()*(Mensajes.length));
     }
 });
 
-client.login("ODI4MzE5MTYxMTY3NTExNTky.YGn2VQ.jb1yUPB40t44nRWBlXgmniAmeWc");
+client.login("");
