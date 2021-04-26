@@ -56,4 +56,4 @@ var aleatorio = Math.floor(Math.random()*(Mensajes.length));
     }
 });
 
-client.login("ODI4MzE5MTYxMTY3NTExNTky.YGn2VQ.jb1yUPB40t44nRWBlXgmniAmeWc");
+client.login("");
